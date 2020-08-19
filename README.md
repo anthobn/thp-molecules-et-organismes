@@ -1,6 +1,6 @@
 # THP - Exercice Front-end
 
-Dans le cadre de la formation The Hacking Project, cet exercice a pour but de faire manipuler un kit UI dans le but de designer son site WEB.
+Dans le cadre de la formation The Hacking Project, cet exercice a pour but de faire manipuler un kit UI dans le but de personnaliser son site WEB.
 
 ![THP](https://miro.medium.com/max/1000/1*3c6S4mvi1Awh_UO9G4N0kQ.png)
 
